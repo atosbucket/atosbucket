@@ -31,6 +31,7 @@ I'm Full Stack Developer who like challenges and am always learning new technolo
 <ul>
 	<li>Node.js, Express, NestJS</li>
 	<li>Python, Django for frameworks</li>
+	<li>Ruby, Ruby on Rails</li>
 	<li>PHP, Laravel</li>
 	<li>C#, ASP.NET</li>
 	<li>RESTful/GraphQL APIs</li>
